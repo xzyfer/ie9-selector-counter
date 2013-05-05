@@ -21,6 +21,7 @@
   "gitHead": "a779a50ece918c50e3918730b20cf862e580c197",
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-release": "~0.3.3"
+    "grunt-release": "~0.3.3",
+    "grunt-contrib-connect": "~0.3.0"
   }
 }
