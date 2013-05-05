@@ -1,0 +1,26 @@
+{
+  "name": "ie9-selector-counter",
+  "version": "0.0.0",
+  "description": "CSS selector counter as seen by IE9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xzyfer/ie9-selector-counter.git"
+  },
+  "keywords": [
+    "css",
+    "IE",
+    "IE9"
+  ],
+  "author": "xzyfer",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "a779a50ece918c50e3918730b20cf862e580c197",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-release": "~0.3.3"
+  }
+}
