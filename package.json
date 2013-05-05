@@ -1,6 +1,6 @@
 {
   "name": "ie9-selector-counter",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "CSS selector counter as seen by IE9",
   "main": "./lib/counter.js",
   "scripts": {
