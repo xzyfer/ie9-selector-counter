@@ -4,7 +4,7 @@
   "description": "CSS selector counter as seen by IE9",
   "main": "./lib/counter.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/*.js"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
     "grunt": "~0.4.1",
     "grunt-release": "~0.3.3",
     "grunt-contrib-connect": "~0.3.0"
+  },
+  "dependencies": {
+    "mocha": "^2.1.0"
   }
 }
