@@ -1,0 +1,6 @@
+@import url("./b.css");
+@import "a.css";
+
+.class1 {
+    font-size: 14px;
+}
